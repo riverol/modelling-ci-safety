@@ -1,0 +1,12 @@
+[tdv1a100,dv1a100]=discfimport('dv1a100.csv',9,90);
+[tdv1a300,dv1a300]=discfimport('dv1a300.csv',9,90);
+[tdv1a400,dv1a400]=discfimport('dv1a400.csv',9,90);
+[tdv1c100,dv1c100]=discfimport('dv1c100.csv',9,90);
+[tdv1c300,dv1c300]=discfimport('dv1c300.csv',9,90);
+[tdv1c400,dv1c400]=discfimport('dv1c400.csv',9,90);
+[tdv2a100,dv2a100]=discfimport('dv2a100.csv',9,90);
+[tdv2a300,dv2a300]=discfimport('dv2a300.csv',9,90);
+[tdv2a400,dv2a400]=discfimport('dv2a400.csv',9,90);
+[tdv2c100,dv2c100]=discfimport('dv2c100.csv',9,90);
+[tdv2c300,dv2c300]=discfimport('dv2c300.csv',9,90);
+[tdv2c400,dv2c400]=discfimport('dv2c400.csv',9,90);
